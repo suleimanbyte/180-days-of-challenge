@@ -1,0 +1,2 @@
+# [180 Days Of Code (180 Days Of Web Development)]
+The "100 Days of Code" challenge is a challenge that was invented to motivate people to continue learning and coding (and therefore growing as a developer).
